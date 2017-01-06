@@ -6,3 +6,4 @@
 /cache/
 !/cache/.gitkeep
 tests/output
+.idea/
